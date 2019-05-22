@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>statekmaly.png</file>
+        <file>statekmalytrafiony.png</file>
+        <file>woda.png</file>
+        <file>wodatrafiona.png</file>
+        <file>statekduzypoziomo1.png</file>
+        <file>statekduzypoziomo2.png</file>
+        <file>statekduzypoziomo3.png</file>
+        <file>stateksrednipoziomo1.png</file>
+        <file>stateksredni.png</file>
+        <file>statekduzypoziomo.png</file>
+        <file>wodaszara.png</file>
+        <file>statekduzypionowo.png</file>
+        <file>stateksrednipionowo.png</file>
+        <file>statekduzypionowo1.png</file>
+        <file>statekduzypionowo2.png</file>
+        <file>statekduzypionowo3.png</file>
+        <file>stateksrednipionowo1.png</file>
+        <file>stateksrednipionowo2.png</file>
+        <file>stateksrednipoziomo2.png</file>
+        <file>statekduzypionowo1trafiony.png</file>
+        <file>statekduzypionowo2trafiony.png</file>
+        <file>statekduzypionowo3trafiony.png</file>
+        <file>statekduzypoziomo1trafiony.png</file>
+        <file>statekduzypoziomo2trafiony.png</file>
+        <file>statekduzypoziomo3trafiony.png</file>
+        <file>stateksrednipionowo1trafiony.png</file>
+        <file>stateksrednipionowo2trafiony.png</file>
+        <file>stateksrednipoziomo1trafiony.png</file>
+        <file>stateksrednipoziomo2trafiony.png</file>
+        <file>zbyszek.png</file>
+        <file>statektrafiony.png</file>
+    </qresource>
+</RCC>
